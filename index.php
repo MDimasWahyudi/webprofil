@@ -21,12 +21,23 @@
     </nav>
 </header>
 
-<section class="hero">
-    <h2> Halo nama saya Dimas</h2>
-    <h2> saya mahasiswa Sistem Informasi Gundarma</h2>
-    <h2> Sedang mencoba menjadi Web Developer</h2>
-    <p> Ini pengalaman pertama saya belajar PHP sendiri</p>    
-    <button> Tentang saya </button>
+<section class = "hero">
+    <div class="hero-text">
+        <p> Halo nama saya Dimas</p>
+
+        <p> saya mahasiswa Sistem Informasi Gundarma</p>
+
+        <p> Sedang mencoba menjadi Web Developer</p>
+
+        <p> Ini pengalaman pertama saya belajar PHP sendiri</p>  
+
+        <button> Tentang saya </button>
+    </div>
+
+
+    <div class = "hero-image">
+        <img src="images/confuse.jpeg" alt = "Foto Profil">
+    </div>
 </section>
 
 <footer>
