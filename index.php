@@ -61,6 +61,77 @@
     </div>
 </section>
 
+<section class ="skills" id="skill">
+    <h2>Skills</h2>
+
+    <div class = skill>
+        <div class = "skill-info">
+            <span>HTML</span>
+            <span>80%</span>
+        </div>
+
+        <div class = "progress">
+            <div class = "progress-bar html"></div>
+        </div>
+    </div>
+
+    <div class = "skill">
+        <div class = "skill-info">
+            <span>CSS</span>
+            <span>70%</span>
+        </div>
+
+        <div class ="progress">
+            <div class = "progress-bar css"></div>
+        </div>
+    </div>
+
+    <div class = "skill">
+        <div class = "skill-info">
+            <span>PHP</span>
+            <span>60%</span>
+        </div>
+
+        <div class = "progress">
+            <div class = "progress-bar php"></div>
+        </div>
+    </div>
+
+    <div class = "skill">
+        <div class ="skill-info">
+            <span>JAVA</span>
+            <span>65%</span>
+        </div>
+
+        <div class ="progress">
+            <div class = "progress-bar java"></div>
+        </div>
+    </div>
+
+    <div class = "skill">
+        <div class ="skill-info">
+            <span>MySQL</span>
+            <span>85%</span>
+        </div>
+
+        <div class = "progress">
+            <div class ="progress-bar mysql"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class = "skill">
+        <div class = "skill-info">
+            <span>JavaScript</span>
+            <span>55%</span>
+        </div>
+
+        <div class = "progress">
+            <div class ="progress-bar javascript"></div>
+        </div>
+    </div>
+</section>
+
 <footer>
     @Dimas 2026
 </footer>

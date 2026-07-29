@@ -154,6 +154,68 @@ button:hover{
 
 }
 
+.skills{
+    background: #f8f9fa;
+    padding: 100px 20px;
+}
+
+.skills h2{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
+}
+
+.skill{
+    max-width: 800px;
+    margin: 30px auto;
+}
+
+.skill-info{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.progress{
+    width: 100%;
+    height: 18px;
+    background: #ddd;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.progress-bar{
+    height: 18px;
+    background: #01aec1;
+    border-radius: 30px;
+    transition: .8s;
+}
+
+.html{
+    width: 80%;
+}
+
+.css{
+    width: 70%;
+}
+
+.php{
+    width: 60%;
+}
+
+.java{
+    width: 65%;
+}
+
+.mysql{
+    width: 85%;
+}
+
+.javascript{
+    width: 55%;
+}
+
 footer{
     background: #01aec1;
     color: white;
