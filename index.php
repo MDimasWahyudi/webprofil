@@ -135,40 +135,53 @@
 
 <section>
     <div class = "portofolio" id = "portofolio">
-        <div class = "card">
-            <img src = "images/confuse.jpeg" alt ="Project">
-        </div>
-        <div class ="card-body">
-            <h3> Website Portofolio </h3>
-            <p> 
-                website pertama saya menggunakan HTML dan CSS.
-            </p>
-            <a href = "#">Lihat Project</a>
-        </div>
+        <h2>Portofolio</h2>
+        <div class ="portofolio-container">
+            <div class = "card">
+                <img src = "images/confuse.jpeg" alt ="Project">
+                <div class ="card-body">
+                    <h3> Website Portofolio </h3>
+                    <p> 
+                        website pertama saya menggunakan HTML dan CSS.
+                    </p>
+                    <a href = "#">Lihat Project</a>
+                </div>
+            </div>
 
-        <div class = "card">
-            <img src = "images/confuse.jpeg" alt = "Project">
-        </div>
-        <div class = "card-body">
-            <h3> Nama project ke 2</h3>
-            <p>
-                nanti ini di isi... sedang ongoing.
-            </p>
-            <a href = "#">Lihat Project</a>
-        </div>
+            <div class = "card">
+                <img src = "images/confuse.jpeg" alt = "Project">
+                <div class = "card-body">
+                    <h3> Nama project ke 2</h3>
+                    <p>
+                        nanti ini di isi... sedang ongoing.
+                    </p>
+                    <a href = "#">Lihat Project</a>
+                </div>
+            </div>
 
-        <div class = "card">
-            <img src = "images/confuse.jpeg" alt = "project">
-        </div>
-        <div class ="card-body">
-            <h3>Nama project ke 3</h3>
-            <p>
-                Sedang ongoing....
-            </p>
-            <a href = "#">Lihat Project</a>
-        </div>
+            <div class = "card">
+                <img src = "images/confuse.jpeg" alt = "Project">
+                <div class ="card-body">
+                    <h3>Nama project ke 3</h3>
+                    <p>
+                        Sedang ongoing....
+                    </p>
+                    <a href = "#">Lihat Project</a>
+                </div>
+            </div>
 
-
+            <div class="card">
+                <img src = "images/confuse.jpeg" alt = "Project">
+                <div class ="card-body">
+                    <h3> Website Toko online</h3>
+                    <p>
+                        Project akhir setelah belajar PHP dan MySQL.
+                    </p>
+                    <p>Status : Comming Soon.</p>
+                    <a href = "#">Lihat Project</a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <footer>
