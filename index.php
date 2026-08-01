@@ -184,6 +184,29 @@
         </div>
     </div>
 </section>
+
+<section class="contact" id="kontak">
+        <h2>Hubungi saya</h2>
+        <div class="contact-container">
+            <div class="contact-item">
+                <h3>Email</h3>
+                <p>Mari Berkenalan!</p>
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammaddimaswahyudi06@gmail.com" target="_blank">Kirim Email</a>
+            </div>
+
+            <div class="contact-item">
+                <h3 >Github</h3>
+                <p>Mari berkenalan!</p>
+                <a href="https://github.com/MDimasWahyudi" target="_blank">Lihat Github</a>
+            </div>
+
+            <div class="contact-item">
+                <h3>Lokasi</h3>
+                <p>Depok, Indonesia</p>
+                <a href="https://maps.google.com/?q=Universitas+Gunadarma+Depok"target="_blank">Lihat Lokasi</a>
+            </div>
+        </div>
+</section>
 <footer>
     @Dimas 2026
 </footer>
