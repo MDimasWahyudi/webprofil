@@ -13,11 +13,11 @@
     <h1>Website Portofolio</h1>
 
     <nav>
-        <a href="#Home">Home</a>
-        <a href="#Tentang">Tentang</a>
-        <a href="#Skill">Skill</a>
-        <a href="#Portofolio">Portofolio</a>
-        <a href="#Kontak">Kontak</a>
+        <a href="#home">Home</a>
+        <a href="#tentang">Tentang</a>
+        <a href="#skill">Skill</a>
+        <a href="#portofolio">Portofolio</a>
+        <a href="#kontak">Kontak</a>
     </nav>
 </header>
 

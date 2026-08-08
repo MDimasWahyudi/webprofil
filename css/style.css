@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body{
@@ -11,12 +12,17 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+
+    padding-top: 130px;
 }
 
 header{
     background: #01aec1;
     color: white;
-    padding: 20px;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 header h1{
@@ -88,7 +94,7 @@ button:hover{
 
 .about{
 
-    padding:100px 20px;
+    padding:100px 10px;
 
     background:white;
 
@@ -156,7 +162,7 @@ button:hover{
 
 .skills{
     background: #f8f9fa;
-    padding: 100px 20px;
+    padding: 100px 10px;
 }
 
 .skills h2{
@@ -330,6 +336,10 @@ button:hover{
 
 .contact-item a:hover{
     background: #000;
+}
+
+section{
+    scroll-margin-top: 100px;
 }
 
 
